@@ -6,7 +6,7 @@ public class Main
 {
     public static void main(String[] args) throws IOException
     {
-        Parser parser = new Parser();
+        Parser0 parser = new Parser0();
         parser.readFile();
 
         System.out.println("po");
